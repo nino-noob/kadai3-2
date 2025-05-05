@@ -1,4 +1,4 @@
-package kadai3_1;
+package kadai3_2;
 
 public class FizzBuzz {
 	public static void main(String[] args) {
